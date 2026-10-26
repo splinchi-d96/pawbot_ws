@@ -1,0 +1,4 @@
+Invoking command in '/home/spl/dog_ws/build/topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/spl/dog_ws/build/topic_cpp -- -j4 -l4
+Invoked command in '/home/spl/dog_ws/build/topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/spl/dog_ws/build/topic_cpp -- -j4 -l4
+Invoking command in '/home/spl/dog_ws/build/topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/spl/dog_ws/build/topic_cpp
+Invoked command in '/home/spl/dog_ws/build/topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/spl/dog_ws/build/topic_cpp

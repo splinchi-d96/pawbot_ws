@@ -1,0 +1,35 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from robot_ros2_interfaces/msg/RobotActionEnum.msg
+// generated code does not contain a copyright notice
+
+
+module robot_ros2_interfaces {
+  module msg {
+    module RobotActionEnum_Constants {
+      const int32 EXIT = 0;
+      const int32 STAND_UP = 1;
+      const int32 LIE_DOWN = 2;
+      const int32 GO_FORWARD = 3;
+      const int32 GO_BACKWARD = 4;
+      const int32 GO_LEFT = 5;
+      const int32 GO_RIGHT = 6;
+      const int32 TURN_LEFT = 7;
+      const int32 TURN_RIGHT = 8;
+      const int32 JUMP = 9;
+      const int32 FRONT_JUMP = 10;
+      const int32 BACK_FLIP = 11;
+      const int32 SHAKE_HAND = 12;
+      @verbatim (language="comment", text=
+        "attitudeControl姿态控制")
+      const int32 ATTITUDE_CONTROL = 13;
+      @verbatim (language="comment", text=
+        "复位")
+      const int32 RESET = 14;
+      const int32 TWO_LEG_STAND = 15;
+      const int32 TWO_LEG_STAND_C = 16;
+    };
+    struct RobotActionEnum {
+      int32 value;
+    };
+  };
+};

@@ -1,0 +1,26 @@
+[0.366s] Invoking command in '/home/spl/dog_ws/src/topic_py': AMENT_PREFIX_PATH=/home/spl/dog_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/spl/dog_ws/install LD_LIBRARY_PATH=/home/spl/dog_ws/install/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/spl/dog_ws/build/topic_py/prefix_override:/home/spl/colcon-core/colcon_core/task/python/colcon_distutils_commands:/home/spl/dog_ws/install/lib/python3.10/site-packages:/home/spl/dog_ws/install/local/lib/python3.10/dist-packages:/home/spl/dog_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/topic_py build --build-base /home/spl/dog_ws/build/topic_py/build install --record /home/spl/dog_ws/build/topic_py/install.log --single-version-externally-managed install_data
+[0.505s] running egg_info
+[0.505s] writing ../../build/topic_py/topic_py.egg-info/PKG-INFO
+[0.506s] writing dependency_links to ../../build/topic_py/topic_py.egg-info/dependency_links.txt
+[0.506s] writing entry points to ../../build/topic_py/topic_py.egg-info/entry_points.txt
+[0.507s] writing requirements to ../../build/topic_py/topic_py.egg-info/requires.txt
+[0.507s] writing top-level names to ../../build/topic_py/topic_py.egg-info/top_level.txt
+[0.508s] reading manifest file '../../build/topic_py/topic_py.egg-info/SOURCES.txt'
+[0.508s] writing manifest file '../../build/topic_py/topic_py.egg-info/SOURCES.txt'
+[0.509s] running build
+[0.509s] running build_py
+[0.509s] copying topic_py/group_control_node.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.509s] running install
+[0.509s] running install_lib
+[0.510s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/group_control_node.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.510s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/group_control_node.py to group_control_node.cpython-310.pyc
+[0.512s] running install_data
+[0.513s] running install_egg_info
+[0.514s] removing '/home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.514s] Copying ../../build/topic_py/topic_py.egg-info to /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py-0.0.0-py3.10.egg-info
+[0.514s] running install_scripts
+[0.527s] Installing group_control_node script to /home/spl/dog_ws/install/lib/topic_py
+[0.527s] Installing robot_battle script to /home/spl/dog_ws/install/lib/topic_py
+[0.527s] Installing robot_node script to /home/spl/dog_ws/install/lib/topic_py
+[0.528s] writing list of installed files to '/home/spl/dog_ws/build/topic_py/install.log'
+[0.543s] Invoked command in '/home/spl/dog_ws/src/topic_py' returned '0': AMENT_PREFIX_PATH=/home/spl/dog_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/spl/dog_ws/install LD_LIBRARY_PATH=/home/spl/dog_ws/install/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/spl/dog_ws/build/topic_py/prefix_override:/home/spl/colcon-core/colcon_core/task/python/colcon_distutils_commands:/home/spl/dog_ws/install/lib/python3.10/site-packages:/home/spl/dog_ws/install/local/lib/python3.10/dist-packages:/home/spl/dog_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/topic_py build --build-base /home/spl/dog_ws/build/topic_py/build install --record /home/spl/dog_ws/build/topic_py/install.log --single-version-externally-managed install_data

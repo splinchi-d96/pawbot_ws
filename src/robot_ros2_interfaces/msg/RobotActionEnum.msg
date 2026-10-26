@@ -1,0 +1,20 @@
+int32 EXIT = 0
+int32 STAND_UP = 1
+int32 LIE_DOWN = 2
+int32 GO_FORWARD = 3
+int32 GO_BACKWARD = 4
+int32 GO_LEFT = 5
+int32 GO_RIGHT = 6
+int32 TURN_LEFT = 7
+int32 TURN_RIGHT = 8
+int32 JUMP = 9
+int32 FRONT_JUMP = 10
+int32 BACK_FLIP = 11
+int32 SHAKE_HAND = 12
+# attitudeControl姿态控制
+int32 ATTITUDE_CONTROL = 13
+int32 RESET = 14 #复位
+int32 TWO_LEG_STAND = 15
+int32 TWO_LEG_STAND_C = 16
+int32 value
+

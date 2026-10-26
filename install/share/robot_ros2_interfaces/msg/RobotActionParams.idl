@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from robot_ros2_interfaces/msg/RobotActionParams.msg
+// generated code does not contain a copyright notice
+
+
+module robot_ros2_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      "动作名字")
+    struct RobotActionParams {
+      string action_name;
+
+      @verbatim (language="comment", text=
+        "动作参数")
+      sequence<int32> param_int;
+
+      sequence<float> param_float;
+
+      sequence<string> param_string;
+    };
+  };
+};

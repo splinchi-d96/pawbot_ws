@@ -1,0 +1,67 @@
+[0.559s] Invoking command in '/home/spl/dog_ws/src/topic_py': AMENT_PREFIX_PATH=/home/spl/dog_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/spl/dog_ws/install LD_LIBRARY_PATH=/home/spl/dog_ws/install/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/spl/dog_ws/build/topic_py/prefix_override:/home/spl/colcon-core/colcon_core/task/python/colcon_distutils_commands:/home/spl/dog_ws/install/lib/python3.10/site-packages:/home/spl/dog_ws/install/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/topic_py build --build-base /home/spl/dog_ws/build/topic_py/build install --record /home/spl/dog_ws/build/topic_py/install.log --single-version-externally-managed install_data
+[0.706s] running egg_info
+[0.706s] creating ../../build/topic_py/topic_py.egg-info
+[0.706s] writing ../../build/topic_py/topic_py.egg-info/PKG-INFO
+[0.706s] writing dependency_links to ../../build/topic_py/topic_py.egg-info/dependency_links.txt
+[0.707s] writing entry points to ../../build/topic_py/topic_py.egg-info/entry_points.txt
+[0.707s] writing requirements to ../../build/topic_py/topic_py.egg-info/requires.txt
+[0.707s] writing top-level names to ../../build/topic_py/topic_py.egg-info/top_level.txt
+[0.707s] writing manifest file '../../build/topic_py/topic_py.egg-info/SOURCES.txt'
+[0.708s] reading manifest file '../../build/topic_py/topic_py.egg-info/SOURCES.txt'
+[0.708s] writing manifest file '../../build/topic_py/topic_py.egg-info/SOURCES.txt'
+[0.709s] running build
+[0.709s] running build_py
+[0.709s] creating /home/spl/dog_ws/build/topic_py/build
+[0.709s] creating /home/spl/dog_ws/build/topic_py/build/lib
+[0.709s] creating /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.709s] copying topic_py/group_control_node.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.712s] copying topic_py/robot_node.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.714s] copying topic_py/customized_action.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.714s] copying topic_py/choreography.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.715s] copying topic_py/robot_battle.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.715s] copying topic_py/RobotAction.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.716s] copying topic_py/__init__.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py
+[0.716s] creating /home/spl/dog_ws/build/topic_py/build/lib/topic_py/abc
+[0.716s] copying topic_py/abc/abc_group_control_node.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py/abc
+[0.716s] copying topic_py/abc/__init__.py -> /home/spl/dog_ws/build/topic_py/build/lib/topic_py/abc
+[0.716s] running install
+[0.716s] running install_lib
+[0.716s] creating /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/group_control_node.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/robot_node.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] creating /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/abc
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/abc/abc_group_control_node.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/abc
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/abc/__init__.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/abc
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/customized_action.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/choreography.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/robot_battle.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/RobotAction.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] copying /home/spl/dog_ws/build/topic_py/build/lib/topic_py/__init__.py -> /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py
+[0.716s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/group_control_node.py to group_control_node.cpython-310.pyc
+[0.717s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/robot_node.py to robot_node.cpython-310.pyc
+[0.718s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/abc/abc_group_control_node.py to abc_group_control_node.cpython-310.pyc
+[0.719s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/abc/__init__.py to __init__.cpython-310.pyc
+[0.719s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/customized_action.py to customized_action.cpython-310.pyc
+[0.719s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/choreography.py to choreography.cpython-310.pyc
+[0.720s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/robot_battle.py to robot_battle.cpython-310.pyc
+[0.721s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/RobotAction.py to RobotAction.cpython-310.pyc
+[0.721s] byte-compiling /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py/__init__.py to __init__.cpython-310.pyc
+[0.721s] running install_data
+[0.721s] copying resource/topic_py -> /home/spl/dog_ws/install/share/ament_index/resource_index/packages
+[0.722s] copying package.xml -> /home/spl/dog_ws/install/share/topic_py
+[0.722s] creating /home/spl/dog_ws/install/share/topic_py/lib
+[0.722s] creating /home/spl/dog_ws/install/share/topic_py/lib/zsl-1
+[0.723s] creating /home/spl/dog_ws/install/share/topic_py/lib/zsl-1/aarch64
+[0.723s] copying topic_py/lib/zsl-1/aarch64/mc_sdk_zsl_1_py.cpython-310-aarch64-linux-gnu.so -> /home/spl/dog_ws/install/share/topic_py/lib/zsl-1/aarch64
+[0.728s] copying topic_py/lib/zsl-1/aarch64/libmc_sdk_zsl_1_aarch64.so -> /home/spl/dog_ws/install/share/topic_py/lib/zsl-1/aarch64
+[0.731s] creating /home/spl/dog_ws/install/share/topic_py/lib/zsl-1/x86_64
+[0.731s] copying topic_py/lib/zsl-1/x86_64/mc_sdk_zsl_1_py.cpython-310-x86_64-linux-gnu.so -> /home/spl/dog_ws/install/share/topic_py/lib/zsl-1/x86_64
+[0.735s] copying topic_py/lib/zsl-1/x86_64/libmc_sdk_zsl_1_x86_64.so -> /home/spl/dog_ws/install/share/topic_py/lib/zsl-1/x86_64
+[0.740s] running install_egg_info
+[0.740s] Copying ../../build/topic_py/topic_py.egg-info to /home/spl/dog_ws/install/lib/python3.10/site-packages/topic_py-0.0.0-py3.10.egg-info
+[0.740s] running install_scripts
+[0.754s] Installing group_control_node script to /home/spl/dog_ws/install/lib/topic_py
+[0.754s] Installing robot_battle script to /home/spl/dog_ws/install/lib/topic_py
+[0.754s] Installing robot_node script to /home/spl/dog_ws/install/lib/topic_py
+[0.754s] writing list of installed files to '/home/spl/dog_ws/build/topic_py/install.log'
+[0.771s] Invoked command in '/home/spl/dog_ws/src/topic_py' returned '0': AMENT_PREFIX_PATH=/home/spl/dog_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/spl/dog_ws/install LD_LIBRARY_PATH=/home/spl/dog_ws/install/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/spl/dog_ws/build/topic_py/prefix_override:/home/spl/colcon-core/colcon_core/task/python/colcon_distutils_commands:/home/spl/dog_ws/install/lib/python3.10/site-packages:/home/spl/dog_ws/install/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/topic_py build --build-base /home/spl/dog_ws/build/topic_py/build install --record /home/spl/dog_ws/build/topic_py/install.log --single-version-externally-managed install_data

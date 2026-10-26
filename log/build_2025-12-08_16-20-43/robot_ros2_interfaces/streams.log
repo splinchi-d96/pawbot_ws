@@ -1,0 +1,222 @@
+[0.014s] Invoking command in '/home/spl/dog_ws/build/robot_ros2_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/spl/dog_ws/build/robot_ros2_interfaces -- -j4 -l4
+[0.058s] [ 10%] Built target robot_ros2_interfaces__rosidl_generator_c
+[0.071s] [ 12%] Built target robot_ros2_interfaces__cpp
+[0.072s] [ 12%] Built target ament_cmake_python_copy_robot_ros2_interfaces
+[0.089s] [ 23%] Built target robot_ros2_interfaces__rosidl_typesupport_introspection_c
+[0.089s] [ 34%] Built target robot_ros2_interfaces__rosidl_typesupport_fastrtps_c
+[0.091s] [ 45%] Built target robot_ros2_interfaces__rosidl_typesupport_c
+[0.096s] [ 56%] Built target robot_ros2_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.108s] [ 67%] Built target robot_ros2_interfaces__rosidl_typesupport_introspection_cpp
+[0.112s] [ 78%] Built target robot_ros2_interfaces__rosidl_typesupport_cpp
+[0.129s] [ 78%] Built target robot_ros2_interfaces
+[0.142s] [ 80%] Built target robot_ros2_interfaces__py
+[0.165s] [ 89%] Built target robot_ros2_interfaces__rosidl_generator_py
+[0.200s] [ 92%] Built target robot_ros2_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.201s] [ 96%] Built target robot_ros2_interfaces__rosidl_typesupport_c__pyext
+[0.205s] [100%] Built target robot_ros2_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.253s] running egg_info
+[0.253s] writing robot_ros2_interfaces.egg-info/PKG-INFO
+[0.254s] writing dependency_links to robot_ros2_interfaces.egg-info/dependency_links.txt
+[0.254s] writing top-level names to robot_ros2_interfaces.egg-info/top_level.txt
+[0.255s] reading manifest file 'robot_ros2_interfaces.egg-info/SOURCES.txt'
+[0.256s] writing manifest file 'robot_ros2_interfaces.egg-info/SOURCES.txt'
+[0.272s] [100%] Built target ament_cmake_python_build_robot_ros2_interfaces_egg
+[0.279s] Invoked command in '/home/spl/dog_ws/build/robot_ros2_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/spl/dog_ws/build/robot_ros2_interfaces -- -j4 -l4
+[0.280s] Invoking command in '/home/spl/dog_ws/build/robot_ros2_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/spl/dog_ws/build/robot_ros2_interfaces
+[0.285s] -- Install configuration: ""
+[0.285s] -- Up-to-date: /home/spl/dog_ws/install/share/ament_index/resource_index/rosidl_interfaces/robot_ros2_interfaces
+[0.285s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces
+[0.285s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg
+[0.285s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/robot_action_params.h
+[0.285s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.285s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__functions.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__type_support.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__type_support.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__struct.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__struct.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__functions.c
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__functions.c
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__struct.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__functions.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__type_support.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__functions.c
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__functions.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/twist_time.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/robot_action_enum.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/robot_action.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__struct.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__type_support.h
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__functions.c
+[0.286s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__functions.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/library_path.sh
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/library_path.dsv
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_generator_c.so
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__rosidl_typesupport_fastrtps_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__rosidl_typesupport_fastrtps_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__rosidl_typesupport_fastrtps_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__rosidl_typesupport_fastrtps_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__rosidl_typesupport_introspection_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__type_support.c
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__rosidl_typesupport_introspection_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__type_support.c
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__rosidl_typesupport_introspection_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__type_support.c
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__rosidl_typesupport_introspection_c.h
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__type_support.c
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_typesupport_introspection_c.so
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_typesupport_c.so
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__struct.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__type_support.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__traits.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__builder.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__struct.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__builder.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__type_support.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__struct.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__builder.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__traits.hpp
+[0.287s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__traits.hpp
+[0.288s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__type_support.hpp
+[0.288s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/robot_action_enum.hpp
+[0.288s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/robot_action_params.hpp
+[0.288s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/twist_time.hpp
+[0.288s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv
+[0.288s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail
+[0.288s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__type_support.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__struct.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__traits.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__builder.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/robot_action.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__rosidl_typesupport_fastrtps_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__rosidl_typesupport_fastrtps_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/dds_fastrtps
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__rosidl_typesupport_fastrtps_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__rosidl_typesupport_fastrtps_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/dds_fastrtps
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__type_support.cpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__type_support.cpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__type_support.cpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_enum__rosidl_typesupport_introspection_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/twist_time__rosidl_typesupport_introspection_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/msg/detail/robot_action_params__rosidl_typesupport_introspection_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__rosidl_typesupport_introspection_cpp.hpp
+[0.289s] -- Up-to-date: /home/spl/dog_ws/install/include/robot_ros2_interfaces/robot_ros2_interfaces/srv/detail/robot_action__type_support.cpp
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_typesupport_cpp.so
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/pythonpath.sh
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/pythonpath.dsv
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces-0.0.0-py3.10.egg-info
+[0.290s] -- Installing: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[0.290s] -- Installing: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[0.290s] -- Installing: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.290s] -- Installing: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/robot_ros2_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/_robot_ros2_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/_robot_ros2_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/librobot_ros2_interfaces__rosidl_generator_py.so
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/robot_ros2_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg/_robot_action_params_s.c
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg/_robot_action_params.py
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg/_twist_time.py
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg/_twist_time_s.c
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg/_robot_action_enum.py
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg/_robot_action_enum_s.c
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg/__init__.py
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/robot_ros2_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/srv
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/srv/_robot_action.py
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/srv/_robot_action_s.c
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/srv/__init__.py
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/_robot_ros2_interfaces_s.ep.rosidl_typesupport_c.c
+[0.290s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/__init__.py
+[0.308s] Listing '/home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces'...
+[0.308s] Listing '/home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/msg'...
+[0.308s] Listing '/home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/srv'...
+[0.310s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/robot_ros2_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.311s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/robot_ros2_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/local/lib/python3.10/dist-packages/robot_ros2_interfaces/robot_ros2_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/lib/librobot_ros2_interfaces__rosidl_generator_py.so
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/msg/RobotActionEnum.idl
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/msg/TwistTime.idl
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/msg/RobotActionParams.idl
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/srv/RobotAction.idl
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/msg/RobotActionEnum.msg
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/msg/TwistTime.msg
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/msg/RobotActionParams.msg
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/srv/RobotAction.srv
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/srv/RobotAction_Request.msg
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/srv/RobotAction_Response.msg
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/ament_index/resource_index/package_run_dependencies/robot_ros2_interfaces
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/ament_index/resource_index/parent_prefix_path/robot_ros2_interfaces
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/ament_prefix_path.sh
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/ament_prefix_path.dsv
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/path.sh
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/environment/path.dsv
+[0.314s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/local_setup.bash
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/local_setup.sh
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/local_setup.zsh
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/local_setup.dsv
+[0.315s] -- Installing: /home/spl/dog_ws/install/share/robot_ros2_interfaces/package.dsv
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/ament_index/resource_index/packages/robot_ros2_interfaces
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_generator_cExport.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_cExport.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_generator_cppExport.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.315s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_cppExport.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_generator_pyExport.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/export_robot_ros2_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfacesConfig.cmake
+[0.317s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/cmake/robot_ros2_interfacesConfig-version.cmake
+[0.320s] -- Up-to-date: /home/spl/dog_ws/install/share/robot_ros2_interfaces/package.xml
+[0.320s] Invoked command in '/home/spl/dog_ws/build/robot_ros2_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/spl/dog_ws/build/robot_ros2_interfaces

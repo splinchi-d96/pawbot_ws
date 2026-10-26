@@ -1,0 +1,12 @@
+source;share/topic_py/hook/cmake_prefix_path.ps1
+source;share/topic_py/hook/cmake_prefix_path.dsv
+source;share/topic_py/hook/cmake_prefix_path.sh
+source;share/topic_py/hook/ld_library_path_lib.ps1
+source;share/topic_py/hook/ld_library_path_lib.dsv
+source;share/topic_py/hook/ld_library_path_lib.sh
+source;share/topic_py/hook/pythonpath.ps1
+source;share/topic_py/hook/pythonpath.dsv
+source;share/topic_py/hook/pythonpath.sh
+source;share/topic_py/hook/ament_prefix_path.ps1
+source;share/topic_py/hook/ament_prefix_path.dsv
+source;share/topic_py/hook/ament_prefix_path.sh

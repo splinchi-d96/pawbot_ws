@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from robot_ros2_interfaces/srv/RobotAction.srv
+// generated code does not contain a copyright notice
+
+
+module robot_ros2_interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      "动作名字")
+    struct RobotAction_Request {
+      string action_name;
+
+      @verbatim (language="comment", text=
+        "动作参数")
+      sequence<int32> param_int;
+
+      sequence<float> param_float;
+
+      sequence<string> param_string;
+    };
+    @verbatim (language="comment", text=
+      "动作结果")
+    struct RobotAction_Response {
+      string result;
+    };
+  };
+};

@@ -1,0 +1,70 @@
+{
+  "name": "斗舞",
+  "version": "1.0",
+  "description": "一个斗舞舞蹈序列",
+  "author": "",
+  "total_duration": 12.5,
+  "actions": [
+    {
+      "name": "准备姿势",
+      "target_pose": [
+        "stand_up",
+        "jump"
+      ]
+    },
+    {
+      "name": "",
+      "target_pose": [
+        {
+          "move": [
+            0.3,
+            0.0,
+            0.0,
+            3.0
+          ]
+        },
+        "back_flip",
+        {
+          "move": [
+            0.0,
+            0.0,
+            -0.5,
+            3.0
+          ]
+        },
+        {
+          "attitude_dance": []
+        },
+        {
+          "battle_shakeHand": []
+        },
+        {
+          "shake_head": []
+        },
+        {
+          "battle_jump": []
+        },
+        {
+          "battle_2_shakeHand":[]
+        },
+        {
+          "battle_shakeHand": []
+        },
+        {
+          "battle_jump": []
+        },
+        {
+          "move": [
+            0.0,
+            0.0,
+            0.5,
+            4.0
+          ]
+        },
+        {
+          "shake_hand": []
+        }
+      ]
+    }
+  ]
+}

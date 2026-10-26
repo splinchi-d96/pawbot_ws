@@ -1,0 +1,31 @@
+{
+  "name": "某舞蹈",
+  "version": "1.0",
+  "description": "一个简单的庆祝舞蹈序列",
+  "author": "机器人团队",
+  "total_duration": 12.5,
+  "actions": [
+    {
+      "name": "准备姿势",
+      "target_pose": [
+        "stand_up",
+        "jump"
+      ]
+    },
+    {
+      "name": "前进一小步",
+      "target_pose": [
+        {
+          "move": [
+            0.3,
+            0.0,
+            0.0,
+            5.0
+          ]
+        },
+        "back_flip",
+        {"attitude_control":[0.1, 0.1, 0.1, 0.1]}
+      ]
+    }
+  ]
+}
